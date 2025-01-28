@@ -21,12 +21,12 @@ This project fine-tunes **Llama-3.2-3B** custom generated structured log message
 ## Training Process & Comparison
 I decided to try to fine-tune **Llama-3.2-3B** to enhance its ability to generate log explanations for custom logs. Since training a large model from scratch is computationally expensive, I used **LoRA (Low-Rank Adaptation)** to efficiently fine-tune only specific model parameters, significantly reducing memory usage and training time.
 ### **Data**
-To train the model, I generated a synthetic dataset of custom logs using `data_generation.py`. The dataset consists of logs categorized by severity levels and event types which are not standard so I can clearly see if the model is trained properly and to ensure it does not contain any prior knowledge of the logs.
-Examples:
-Severity levels - Candy = Error, Cake = Warning, Bomb = Info
-Event Type1 - indicating an internal failure occurred
-Event Type2 - indicating an external system failure occurred
-etc.
+To train the model, I generated a synthetic dataset of custom logs using `data_generation.py`. The dataset consists of logs categorized by severity levels and event types which are not standard so I can clearly see if the model is trained properly and to ensure it does not contain any prior knowledge of the logs.\
+Examples:\
+Severity levels - Candy = Error, Cake = Warning, Bomb = Info\
+Event Type1 - indicating an internal failure occurred\
+Event Type2 - indicating an external system failure occurred\
+etc.\
 
 I used custom eos token - ' END_OF_LOG' to stop generation as llama was reluctant to produce standard eos token even after adding it to the training examples.
 ### **Training Process**
@@ -37,8 +37,7 @@ For training and inference  on the fine-tuned model I use this format:
 
 I used different formats for base model and fine-tuned model as the base model does not know how to handle the custom formatting.
 
-For training, I used about 1000 generated logs and
-I decided on the following parameters:
+Trained on about 1000 generated logs and decided on the following parameters:
 - **Batch Size:** 1 (To accommodate memory constraints as I decided to try and train it on my laptop RTX 3060)
 - **Epochs:** 2 
 - **Learning Rate:** 2e-4 (Seemed to work well in my case)
