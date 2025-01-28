@@ -1,0 +1,800 @@
+[2025-01-08 22:24:59] #Bomb - ID: 88223 - Unit: Search Engine | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Search Engine.
+[2025-01-26 02:01:34] #Bomb - ID: 51592 - Unit: Database | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Database.
+[2025-01-28 15:19:14] #Candy - ID: 31888 - Unit: Payment Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Payment Service.
+[2025-01-15 20:33:21] #Bomb - ID: 98724 - Unit: Message Broker | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Message Broker.
+[2025-01-15 15:49:52] #Cake - ID: 90833 - Unit: Shipping Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Shipping Service.
+[2025-01-26 20:32:51] #Bomb - ID: 94941 - Unit: Notification Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Notification Service.
+[2025-01-11 07:11:20] #Bomb - ID: 76674 - Unit: Payment Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Payment Service.
+[2025-01-27 09:04:00] #Bomb - ID: 49988 - Unit: Reporting Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Reporting Service.
+[2025-01-03 08:28:13] #Cake - ID: 15911 - Unit: Logging Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Logging Service.
+[2025-01-10 19:20:35] #Cake - ID: 37460 - Unit: Inventory Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Inventory Service.
+[2025-01-16 22:40:02] #Cake - ID: 42725 - Unit: Shipping Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Shipping Service.
+[2025-01-18 17:59:59] #Bomb - ID: 23681 - Unit: Authentication Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Authentication Service.
+[2025-01-25 21:39:24] #Candy - ID: 31834 - Unit: Payment Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Payment Service.
+[2025-01-16 18:23:47] #Candy - ID: 78312 - Unit: Shipping Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Shipping Service.
+[2025-01-22 14:44:56] #Bomb - ID: 34186 - Unit: Analytics Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Analytics Service.
+[2025-01-13 10:21:58] #Bomb - ID: 57489 - Unit: Notification Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Notification Service.
+[2025-01-06 03:53:49] #Candy - ID: 70116 - Unit: Database | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Database.
+[2025-01-15 06:19:39] #Bomb - ID: 93189 - Unit: Order Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Order Service.
+[2025-01-20 20:20:44] #Cake - ID: 32762 - Unit: Inventory Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Inventory Service.
+[2025-01-22 03:50:03] #Candy - ID: 87346 - Unit: Search Engine | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Search Engine.
+[2025-01-01 13:29:13] #Cake - ID: 94351 - Unit: Reporting Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Reporting Service.
+[2025-01-10 00:24:11] #Bomb - ID: 50393 - Unit: CRM Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in CRM Service.
+[2025-01-01 00:35:39] #Candy - ID: 92062 - Unit: Reporting Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Reporting Service.
+[2025-01-28 05:56:32] #Bomb - ID: 59344 - Unit: Analytics Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Analytics Service.
+[2025-01-26 12:30:02] #Cake - ID: 31752 - Unit: Reporting Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Reporting Service.
+[2025-01-11 06:08:40] #Bomb - ID: 78190 - Unit: Reporting Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Reporting Service.
+[2025-01-05 02:25:15] #Candy - ID: 32855 - Unit: CRM Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in CRM Service.
+[2025-01-13 06:51:16] #Candy - ID: 51065 - Unit: Logging Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Logging Service.
+[2025-01-21 13:13:18] #Cake - ID: 31009 - Unit: Reporting Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Reporting Service.
+[2025-01-24 00:11:56] #Candy - ID: 37255 - Unit: Payment Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Payment Service.
+[2025-01-16 10:10:42] #Bomb - ID: 54519 - Unit: Database | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Database.
+[2025-01-17 06:38:42] #Candy - ID: 63877 - Unit: Logging Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Logging Service.
+[2025-01-18 06:58:16] #Cake - ID: 85000 - Unit: Authentication Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Authentication Service.
+[2025-01-02 10:07:06] #Cake - ID: 20350 - Unit: Inventory Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Inventory Service.
+[2025-01-09 18:06:52] #Candy - ID: 92291 - Unit: CRM Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in CRM Service.
+[2025-01-18 23:07:50] #Bomb - ID: 83575 - Unit: Logging Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Logging Service.
+[2025-01-04 20:02:57] #Candy - ID: 24047 - Unit: Shipping Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Shipping Service.
+[2025-01-03 18:36:06] #Bomb - ID: 40559 - Unit: Analytics Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Analytics Service.
+[2025-01-21 13:34:08] #Cake - ID: 26488 - Unit: Reporting Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Reporting Service.
+[2025-01-11 12:19:54] #Candy - ID: 41697 - Unit: CRM Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in CRM Service.
+[2025-01-18 08:49:29] #Bomb - ID: 45854 - Unit: Notification Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Notification Service.
+[2025-01-06 18:31:44] #Cake - ID: 62100 - Unit: Logging Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Logging Service.
+[2024-12-30 19:25:54] #Bomb - ID: 81131 - Unit: Authentication Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Authentication Service.
+[2025-01-27 05:23:43] #Cake - ID: 83236 - Unit: Database | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Database.
+[2024-12-31 13:36:15] #Bomb - ID: 15825 - Unit: Analytics Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Analytics Service.
+[2025-01-11 00:08:24] #Cake - ID: 39866 - Unit: Search Engine | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Search Engine.
+[2025-01-16 20:59:01] #Candy - ID: 74127 - Unit: Shipping Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Shipping Service.
+[2025-01-04 08:48:46] #Bomb - ID: 74628 - Unit: Shipping Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Shipping Service.
+[2025-01-25 17:06:06] #Bomb - ID: 51505 - Unit: Analytics Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Analytics Service.
+[2025-01-09 05:28:28] #Cake - ID: 53257 - Unit: Payment Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Payment Service.
+[2024-12-31 05:12:36] #Cake - ID: 24172 - Unit: CRM Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in CRM Service.
+[2025-01-12 13:22:37] #Cake - ID: 80930 - Unit: Reporting Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Reporting Service.
+[2025-01-26 21:11:43] #Bomb - ID: 75627 - Unit: Shipping Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Shipping Service.
+[2025-01-02 06:12:37] #Candy - ID: 67642 - Unit: Search Engine | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Search Engine.
+[2025-01-23 21:31:48] #Cake - ID: 10525 - Unit: Analytics Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Analytics Service.
+[2025-01-12 17:22:40] #Candy - ID: 62772 - Unit: Analytics Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Analytics Service.
+[2025-01-12 17:35:50] #Bomb - ID: 30371 - Unit: Logging Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Logging Service.
+[2025-01-01 13:12:41] #Cake - ID: 79665 - Unit: Notification Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Notification Service.
+[2025-01-02 10:37:48] #Candy - ID: 89982 - Unit: Search Engine | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Search Engine.
+[2025-01-14 21:18:35] #Cake - ID: 93610 - Unit: Database | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Database.
+[2025-01-20 02:50:36] #Candy - ID: 34349 - Unit: Inventory Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Inventory Service.
+[2025-01-20 16:38:31] #Cake - ID: 38505 - Unit: Inventory Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Inventory Service.
+[2025-01-19 01:54:21] #Cake - ID: 30517 - Unit: Logging Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Logging Service.
+[2025-01-15 12:00:20] #Cake - ID: 66196 - Unit: CRM Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in CRM Service.
+[2025-01-06 15:17:01] #Bomb - ID: 64298 - Unit: Logging Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Logging Service.
+[2025-01-28 17:57:37] #Bomb - ID: 25450 - Unit: Shipping Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Shipping Service.
+[2025-01-27 12:12:41] #Bomb - ID: 49063 - Unit: Message Broker | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Message Broker.
+[2025-01-10 08:13:48] #Candy - ID: 88923 - Unit: Inventory Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Inventory Service.
+[2025-01-26 13:10:22] #Candy - ID: 12727 - Unit: Analytics Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Analytics Service.
+[2025-01-25 05:45:25] #Candy - ID: 62877 - Unit: Logging Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Logging Service.
+[2025-01-14 23:53:11] #Bomb - ID: 80046 - Unit: Notification Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Notification Service.
+[2025-01-16 13:51:23] #Cake - ID: 54918 - Unit: Payment Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Payment Service.
+[2025-01-11 09:16:48] #Cake - ID: 40810 - Unit: Shipping Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Shipping Service.
+[2025-01-12 09:12:06] #Cake - ID: 55997 - Unit: Notification Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Notification Service.
+[2025-01-05 12:25:05] #Bomb - ID: 77773 - Unit: Inventory Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Inventory Service.
+[2025-01-21 22:32:54] #Bomb - ID: 28630 - Unit: Authentication Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Authentication Service.
+[2024-12-31 17:36:34] #Bomb - ID: 25205 - Unit: Logging Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Logging Service.
+[2025-01-25 17:27:20] #Cake - ID: 42835 - Unit: Logging Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Logging Service.
+[2025-01-15 16:19:33] #Candy - ID: 40843 - Unit: Notification Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Notification Service.
+[2025-01-20 07:18:49] #Bomb - ID: 17919 - Unit: Authentication Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Authentication Service.
+[2025-01-03 20:30:21] #Cake - ID: 55689 - Unit: Logging Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Logging Service.
+[2025-01-22 01:42:26] #Candy - ID: 98166 - Unit: Shipping Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Shipping Service.
+[2025-01-28 16:09:08] #Candy - ID: 74999 - Unit: Authentication Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Authentication Service.
+[2025-01-11 21:35:00] #Candy - ID: 26624 - Unit: Inventory Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Inventory Service.
+[2025-01-18 02:34:52] #Candy - ID: 41938 - Unit: Database | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Database.
+[2025-01-03 15:39:03] #Cake - ID: 61632 - Unit: CRM Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in CRM Service.
+[2025-01-20 09:00:31] #Cake - ID: 43059 - Unit: Analytics Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Analytics Service.
+[2025-01-06 18:17:43] #Cake - ID: 53145 - Unit: CRM Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in CRM Service.
+[2025-01-07 07:21:37] #Cake - ID: 20895 - Unit: Order Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Order Service.
+[2025-01-10 03:52:41] #Cake - ID: 88619 - Unit: CRM Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in CRM Service.
+[2025-01-10 12:24:42] #Candy - ID: 25527 - Unit: Order Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Order Service.
+[2024-12-31 21:34:20] #Candy - ID: 14453 - Unit: Message Broker | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Message Broker.
+[2025-01-22 17:16:01] #Bomb - ID: 39081 - Unit: Payment Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Payment Service.
+[2025-01-12 17:47:04] #Candy - ID: 34787 - Unit: Shipping Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Shipping Service.
+[2025-01-14 14:44:37] #Cake - ID: 59762 - Unit: Analytics Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Analytics Service.
+[2025-01-02 09:15:55] #Bomb - ID: 99658 - Unit: Notification Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Notification Service.
+[2025-01-20 02:29:34] #Bomb - ID: 94827 - Unit: Database | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Database.
+[2025-01-12 01:32:33] #Cake - ID: 14068 - Unit: Analytics Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Analytics Service.
+[2025-01-10 13:29:29] #Candy - ID: 23065 - Unit: Search Engine | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Search Engine.
+[2025-01-08 12:37:07] #Cake - ID: 27790 - Unit: Analytics Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Analytics Service.
+[2025-01-23 11:05:02] #Cake - ID: 98154 - Unit: Reporting Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Reporting Service.
+[2025-01-01 06:03:36] #Candy - ID: 86388 - Unit: Database | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Database.
+[2025-01-17 13:55:21] #Candy - ID: 26297 - Unit: Analytics Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Analytics Service.
+[2025-01-02 17:41:31] #Candy - ID: 78166 - Unit: Order Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Order Service.
+[2025-01-04 20:40:13] #Cake - ID: 10186 - Unit: Order Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Order Service.
+[2025-01-09 16:37:33] #Cake - ID: 84461 - Unit: Shipping Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Shipping Service.
+[2025-01-18 06:34:57] #Cake - ID: 72432 - Unit: Notification Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Notification Service.
+[2025-01-11 23:00:28] #Cake - ID: 81192 - Unit: Search Engine | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Search Engine.
+[2025-01-19 11:23:58] #Bomb - ID: 81373 - Unit: Message Broker | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Message Broker.
+[2025-01-19 08:20:34] #Bomb - ID: 76272 - Unit: Reporting Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Reporting Service.
+[2025-01-26 19:28:01] #Candy - ID: 31652 - Unit: Reporting Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Reporting Service.
+[2025-01-24 04:37:40] #Cake - ID: 73337 - Unit: Inventory Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Inventory Service.
+[2025-01-02 11:32:07] #Cake - ID: 29613 - Unit: Message Broker | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Message Broker.
+[2024-12-30 06:03:17] #Bomb - ID: 19019 - Unit: Order Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Order Service.
+[2025-01-09 01:25:17] #Bomb - ID: 41883 - Unit: Logging Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Logging Service.
+[2025-01-10 00:24:39] #Cake - ID: 72986 - Unit: CRM Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in CRM Service.
+[2025-01-17 03:05:44] #Cake - ID: 35755 - Unit: Logging Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Logging Service.
+[2025-01-24 04:47:46] #Bomb - ID: 96409 - Unit: Search Engine | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Search Engine.
+[2025-01-08 13:40:04] #Bomb - ID: 14404 - Unit: Notification Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Notification Service.
+[2025-01-18 17:44:39] #Cake - ID: 34223 - Unit: Reporting Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Reporting Service.
+[2024-12-30 06:15:26] #Cake - ID: 94637 - Unit: Inventory Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Inventory Service.
+[2025-01-04 12:35:38] #Cake - ID: 49722 - Unit: Notification Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Notification Service.
+[2025-01-15 09:16:51] #Cake - ID: 61663 - Unit: Database | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Database.
+[2025-01-23 10:39:55] #Cake - ID: 91363 - Unit: Notification Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Notification Service.
+[2025-01-02 22:44:40] #Bomb - ID: 20181 - Unit: Search Engine | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Search Engine.
+[2025-01-25 01:19:53] #Bomb - ID: 39138 - Unit: Search Engine | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Search Engine.
+[2025-01-08 21:52:59] #Candy - ID: 30664 - Unit: CRM Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in CRM Service.
+[2025-01-27 07:08:19] #Candy - ID: 86949 - Unit: Analytics Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Analytics Service.
+[2025-01-12 15:09:41] #Bomb - ID: 77361 - Unit: Logging Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Logging Service.
+[2025-01-23 11:53:56] #Bomb - ID: 30736 - Unit: Payment Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Payment Service.
+[2025-01-17 07:37:47] #Cake - ID: 94566 - Unit: Inventory Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Inventory Service.
+[2025-01-07 08:22:17] #Bomb - ID: 34812 - Unit: Analytics Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Analytics Service.
+[2025-01-01 13:45:32] #Candy - ID: 88532 - Unit: Database | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Database.
+[2025-01-12 11:19:19] #Cake - ID: 80545 - Unit: Database | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Database.
+[2025-01-13 22:47:00] #Candy - ID: 36787 - Unit: Payment Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Payment Service.
+[2025-01-11 18:45:49] #Bomb - ID: 54329 - Unit: Reporting Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Reporting Service.
+[2025-01-19 09:20:50] #Bomb - ID: 60977 - Unit: Authentication Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Authentication Service.
+[2025-01-26 16:56:28] #Candy - ID: 26244 - Unit: Analytics Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Analytics Service.
+[2025-01-07 14:44:42] #Bomb - ID: 39292 - Unit: Message Broker | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Message Broker.
+[2025-01-06 18:43:22] #Cake - ID: 94386 - Unit: CRM Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in CRM Service.
+[2025-01-21 12:48:53] #Bomb - ID: 73787 - Unit: Logging Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Logging Service.
+[2025-01-23 06:02:19] #Cake - ID: 36963 - Unit: CRM Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in CRM Service.
+[2025-01-02 08:00:05] #Candy - ID: 55729 - Unit: Notification Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Notification Service.
+[2025-01-18 04:12:53] #Bomb - ID: 17920 - Unit: Reporting Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Reporting Service.
+[2025-01-16 15:11:12] #Candy - ID: 54899 - Unit: Logging Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Logging Service.
+[2025-01-28 18:51:21] #Cake - ID: 31836 - Unit: Logging Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Logging Service.
+[2025-01-27 21:57:35] #Bomb - ID: 38889 - Unit: Logging Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Logging Service.
+[2025-01-05 13:59:50] #Candy - ID: 57927 - Unit: Search Engine | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Search Engine.
+[2025-01-07 19:39:30] #Bomb - ID: 93227 - Unit: Search Engine | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Search Engine.
+[2025-01-18 01:48:59] #Bomb - ID: 87437 - Unit: Message Broker | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Message Broker.
+[2025-01-19 08:58:44] #Bomb - ID: 48226 - Unit: Shipping Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Shipping Service.
+[2025-01-16 21:35:14] #Candy - ID: 23049 - Unit: CRM Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in CRM Service.
+[2025-01-22 11:23:14] #Bomb - ID: 85740 - Unit: Inventory Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Inventory Service.
+[2025-01-15 02:53:51] #Bomb - ID: 17439 - Unit: Authentication Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Authentication Service.
+[2025-01-10 13:45:27] #Bomb - ID: 34659 - Unit: Order Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Order Service.
+[2025-01-06 16:12:28] #Bomb - ID: 26302 - Unit: Shipping Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Shipping Service.
+[2025-01-25 21:47:56] #Cake - ID: 80326 - Unit: Authentication Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Authentication Service.
+[2025-01-16 00:40:32] #Cake - ID: 54149 - Unit: Order Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Order Service.
+[2025-01-20 00:45:19] #Bomb - ID: 78391 - Unit: Search Engine | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Search Engine.
+[2025-01-22 02:39:39] #Bomb - ID: 77664 - Unit: Notification Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Notification Service.
+[2025-01-10 02:49:24] #Bomb - ID: 63444 - Unit: Analytics Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Analytics Service.
+[2025-01-16 00:28:48] #Bomb - ID: 35922 - Unit: Reporting Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Reporting Service.
+[2025-01-07 14:07:20] #Cake - ID: 54325 - Unit: Order Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Order Service.
+[2025-01-26 13:47:34] #Bomb - ID: 15250 - Unit: Payment Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Payment Service.
+[2025-01-21 21:40:41] #Cake - ID: 93666 - Unit: Message Broker | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Message Broker.
+[2025-01-03 09:04:38] #Bomb - ID: 86397 - Unit: Logging Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Logging Service.
+[2025-01-12 18:05:43] #Bomb - ID: 54062 - Unit: Notification Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Notification Service.
+[2025-01-13 23:48:47] #Candy - ID: 32873 - Unit: CRM Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in CRM Service.
+[2025-01-06 19:46:04] #Candy - ID: 51293 - Unit: Notification Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Notification Service.
+[2025-01-15 17:16:49] #Bomb - ID: 75349 - Unit: Payment Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Payment Service.
+[2025-01-17 04:56:52] #Cake - ID: 32463 - Unit: Notification Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Notification Service.
+[2024-12-30 19:06:11] #Candy - ID: 17819 - Unit: Notification Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Notification Service.
+[2025-01-18 12:40:11] #Bomb - ID: 47618 - Unit: Message Broker | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Message Broker.
+[2025-01-23 10:53:53] #Bomb - ID: 42204 - Unit: Database | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Database.
+[2025-01-14 21:36:56] #Cake - ID: 20803 - Unit: Message Broker | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Message Broker.
+[2024-12-31 10:18:07] #Bomb - ID: 99863 - Unit: Inventory Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Inventory Service.
+[2025-01-24 00:36:15] #Candy - ID: 80346 - Unit: Shipping Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Shipping Service.
+[2025-01-18 09:37:33] #Candy - ID: 10589 - Unit: Shipping Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Shipping Service.
+[2025-01-26 11:23:16] #Cake - ID: 43094 - Unit: Reporting Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Reporting Service.
+[2025-01-08 22:47:37] #Cake - ID: 33158 - Unit: Reporting Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Reporting Service.
+[2025-01-27 22:29:09] #Candy - ID: 87954 - Unit: CRM Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in CRM Service.
+[2025-01-01 04:55:23] #Candy - ID: 34178 - Unit: CRM Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in CRM Service.
+[2025-01-09 21:52:04] #Candy - ID: 48234 - Unit: Reporting Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Reporting Service.
+[2025-01-15 01:38:17] #Bomb - ID: 18332 - Unit: CRM Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in CRM Service.
+[2025-01-21 21:26:54] #Candy - ID: 86197 - Unit: Inventory Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Inventory Service.
+[2025-01-18 11:12:24] #Candy - ID: 89944 - Unit: Inventory Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Inventory Service.
+[2025-01-06 14:22:17] #Bomb - ID: 41759 - Unit: Payment Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Payment Service.
+[2025-01-25 14:27:23] #Bomb - ID: 33027 - Unit: Database | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Database.
+[2025-01-07 06:51:13] #Bomb - ID: 37643 - Unit: Analytics Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Analytics Service.
+[2025-01-01 19:48:37] #Candy - ID: 32765 - Unit: Shipping Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Shipping Service.
+[2025-01-03 19:38:08] #Candy - ID: 54029 - Unit: Analytics Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Analytics Service.
+[2025-01-26 16:37:56] #Cake - ID: 61794 - Unit: Message Broker | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Message Broker.
+[2025-01-17 08:03:38] #Bomb - ID: 13979 - Unit: Logging Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Logging Service.
+[2025-01-27 02:15:01] #Bomb - ID: 65917 - Unit: Shipping Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Shipping Service.
+[2025-01-26 08:29:01] #Cake - ID: 97261 - Unit: Order Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Order Service.
+[2025-01-20 16:25:10] #Bomb - ID: 84912 - Unit: Reporting Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Reporting Service.
+[2025-01-17 07:46:58] #Candy - ID: 69804 - Unit: Shipping Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Shipping Service.
+[2025-01-09 23:08:13] #Candy - ID: 27117 - Unit: Logging Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Logging Service.
+[2025-01-21 12:10:32] #Bomb - ID: 10849 - Unit: Payment Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Payment Service.
+[2025-01-21 03:58:14] #Cake - ID: 83300 - Unit: Authentication Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Authentication Service.
+[2024-12-29 21:07:33] #Bomb - ID: 70335 - Unit: CRM Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in CRM Service.
+[2025-01-05 13:46:10] #Candy - ID: 18304 - Unit: Payment Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Payment Service.
+[2025-01-15 21:23:31] #Cake - ID: 50204 - Unit: Shipping Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Shipping Service.
+[2025-01-15 11:23:51] #Cake - ID: 68867 - Unit: Database | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Database.
+[2025-01-28 19:52:07] #Bomb - ID: 76437 - Unit: Database | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Database.
+[2025-01-17 22:29:02] #Bomb - ID: 21470 - Unit: Payment Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Payment Service.
+[2025-01-15 01:41:34] #Candy - ID: 97711 - Unit: Message Broker | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Message Broker.
+[2025-01-02 08:17:31] #Bomb - ID: 74663 - Unit: Payment Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Payment Service.
+[2025-01-04 04:47:38] #Candy - ID: 62810 - Unit: Database | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Database.
+[2025-01-11 08:44:16] #Candy - ID: 20273 - Unit: CRM Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in CRM Service.
+[2025-01-25 05:23:39] #Bomb - ID: 90139 - Unit: Database | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Database.
+[2025-01-09 13:13:27] #Bomb - ID: 65644 - Unit: Database | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Database.
+[2025-01-13 10:47:28] #Cake - ID: 66936 - Unit: Analytics Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Analytics Service.
+[2024-12-31 21:10:39] #Cake - ID: 46946 - Unit: Notification Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Notification Service.
+[2025-01-22 18:38:52] #Cake - ID: 47379 - Unit: Inventory Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Inventory Service.
+[2025-01-13 23:34:07] #Cake - ID: 92642 - Unit: Authentication Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Authentication Service.
+[2025-01-02 07:55:45] #Bomb - ID: 87723 - Unit: Payment Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Payment Service.
+[2025-01-14 13:00:17] #Cake - ID: 72298 - Unit: Notification Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Notification Service.
+[2024-12-30 14:11:33] #Cake - ID: 61545 - Unit: Shipping Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Shipping Service.
+[2025-01-18 17:11:53] #Cake - ID: 61676 - Unit: Search Engine | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Search Engine.
+[2025-01-20 19:28:45] #Candy - ID: 74495 - Unit: Order Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Order Service.
+[2025-01-21 15:34:06] #Bomb - ID: 83720 - Unit: Message Broker | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Message Broker.
+[2025-01-11 09:14:16] #Candy - ID: 58618 - Unit: Message Broker | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Message Broker.
+[2025-01-12 14:07:34] #Cake - ID: 44793 - Unit: Inventory Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Inventory Service.
+[2025-01-13 04:29:54] #Candy - ID: 65628 - Unit: Order Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Order Service.
+[2025-01-10 04:56:00] #Bomb - ID: 61689 - Unit: Authentication Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Authentication Service.
+[2025-01-24 22:16:46] #Bomb - ID: 44824 - Unit: Notification Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Notification Service.
+[2025-01-15 20:09:32] #Cake - ID: 55286 - Unit: Search Engine | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Search Engine.
+[2025-01-12 15:35:12] #Cake - ID: 89882 - Unit: Reporting Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Reporting Service.
+[2025-01-13 05:00:19] #Candy - ID: 44259 - Unit: Search Engine | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Search Engine.
+[2025-01-11 00:02:31] #Cake - ID: 64784 - Unit: Search Engine | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Search Engine.
+[2025-01-03 07:19:35] #Cake - ID: 79214 - Unit: Inventory Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Inventory Service.
+[2025-01-12 11:51:21] #Candy - ID: 88899 - Unit: Database | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Database.
+[2025-01-26 22:15:39] #Bomb - ID: 29987 - Unit: Reporting Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Reporting Service.
+[2025-01-05 11:01:17] #Candy - ID: 89745 - Unit: Logging Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Logging Service.
+[2025-01-08 13:38:51] #Cake - ID: 94659 - Unit: Payment Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Payment Service.
+[2025-01-23 11:05:40] #Cake - ID: 22980 - Unit: Reporting Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Reporting Service.
+[2025-01-16 21:05:15] #Candy - ID: 35278 - Unit: Database | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Database.
+[2025-01-19 22:52:42] #Cake - ID: 31945 - Unit: Analytics Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Analytics Service.
+[2024-12-31 06:31:35] #Bomb - ID: 66935 - Unit: Notification Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Notification Service.
+[2025-01-09 19:09:42] #Bomb - ID: 87692 - Unit: Notification Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Notification Service.
+[2024-12-30 02:58:54] #Cake - ID: 19748 - Unit: Shipping Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Shipping Service.
+[2025-01-07 10:30:06] #Candy - ID: 42241 - Unit: Payment Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Payment Service.
+[2025-01-21 15:14:59] #Candy - ID: 42401 - Unit: Payment Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Payment Service.
+[2025-01-12 11:06:17] #Candy - ID: 18649 - Unit: Shipping Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Shipping Service.
+[2025-01-01 20:15:52] #Bomb - ID: 61313 - Unit: Shipping Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Shipping Service.
+[2025-01-01 12:17:31] #Cake - ID: 62058 - Unit: Search Engine | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Search Engine.
+[2025-01-13 16:00:46] #Candy - ID: 22630 - Unit: Notification Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Notification Service.
+[2025-01-13 20:16:29] #Candy - ID: 81566 - Unit: Authentication Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Authentication Service.
+[2025-01-21 17:15:35] #Cake - ID: 48125 - Unit: CRM Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in CRM Service.
+[2025-01-03 10:10:45] #Bomb - ID: 59044 - Unit: Notification Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Notification Service.
+[2025-01-26 03:06:33] #Candy - ID: 36427 - Unit: Analytics Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Analytics Service.
+[2025-01-09 12:51:31] #Cake - ID: 22813 - Unit: Database | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Database.
+[2025-01-21 13:01:14] #Candy - ID: 92314 - Unit: Order Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Order Service.
+[2025-01-02 16:07:13] #Bomb - ID: 44233 - Unit: Order Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Order Service.
+[2025-01-05 18:41:54] #Cake - ID: 77693 - Unit: CRM Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in CRM Service.
+[2025-01-01 22:35:30] #Bomb - ID: 33610 - Unit: Search Engine | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Search Engine.
+[2025-01-19 20:19:42] #Candy - ID: 65367 - Unit: Logging Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Logging Service.
+[2025-01-02 20:25:16] #Cake - ID: 13041 - Unit: Notification Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Notification Service.
+[2025-01-17 00:19:57] #Bomb - ID: 87189 - Unit: Shipping Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Shipping Service.
+[2025-01-19 05:59:28] #Candy - ID: 13280 - Unit: Reporting Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Reporting Service.
+[2025-01-13 03:55:13] #Candy - ID: 40290 - Unit: Notification Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Notification Service.
+[2025-01-12 18:32:30] #Candy - ID: 74862 - Unit: Database | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Database.
+[2025-01-23 11:53:06] #Candy - ID: 81789 - Unit: CRM Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in CRM Service.
+[2025-01-20 08:39:54] #Bomb - ID: 79157 - Unit: Message Broker | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Message Broker.
+[2025-01-13 23:24:35] #Candy - ID: 47157 - Unit: Authentication Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Authentication Service.
+[2025-01-16 00:16:46] #Bomb - ID: 16827 - Unit: Order Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Order Service.
+[2025-01-18 14:14:22] #Candy - ID: 24033 - Unit: Search Engine | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Search Engine.
+[2024-12-31 07:15:42] #Cake - ID: 58480 - Unit: CRM Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in CRM Service.
+[2025-01-04 08:00:36] #Candy - ID: 86066 - Unit: Inventory Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Inventory Service.
+[2025-01-17 18:22:32] #Candy - ID: 84805 - Unit: Logging Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Logging Service.
+[2024-12-30 01:59:47] #Cake - ID: 22527 - Unit: Search Engine | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Search Engine.
+[2025-01-21 01:11:40] #Candy - ID: 34230 - Unit: Logging Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Logging Service.
+[2025-01-22 03:28:59] #Cake - ID: 98768 - Unit: Reporting Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Reporting Service.
+[2025-01-13 09:09:02] #Candy - ID: 94650 - Unit: Reporting Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Reporting Service.
+[2025-01-04 15:06:54] #Bomb - ID: 83515 - Unit: Reporting Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Reporting Service.
+[2025-01-08 15:19:57] #Bomb - ID: 21295 - Unit: Analytics Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Analytics Service.
+[2025-01-06 22:58:26] #Candy - ID: 57267 - Unit: Logging Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Logging Service.
+[2025-01-06 04:44:28] #Candy - ID: 88052 - Unit: Reporting Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Reporting Service.
+[2024-12-30 15:36:35] #Candy - ID: 18831 - Unit: Database | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Database.
+[2025-01-21 09:24:04] #Bomb - ID: 51127 - Unit: Authentication Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Authentication Service.
+[2025-01-21 04:52:51] #Bomb - ID: 33218 - Unit: Analytics Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Analytics Service.
+[2025-01-20 01:09:37] #Cake - ID: 57084 - Unit: Payment Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Payment Service.
+[2025-01-26 02:21:17] #Cake - ID: 98334 - Unit: Message Broker | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Message Broker.
+[2025-01-22 19:23:50] #Candy - ID: 58945 - Unit: Logging Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Logging Service.
+[2025-01-26 06:25:17] #Bomb - ID: 98522 - Unit: Payment Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Payment Service.
+[2025-01-27 20:33:26] #Candy - ID: 10531 - Unit: Message Broker | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Message Broker.
+[2025-01-05 10:17:27] #Bomb - ID: 83847 - Unit: CRM Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in CRM Service.
+[2025-01-20 07:13:20] #Candy - ID: 54633 - Unit: CRM Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in CRM Service.
+[2025-01-23 10:54:04] #Candy - ID: 16991 - Unit: CRM Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in CRM Service.
+[2024-12-31 21:09:27] #Cake - ID: 21371 - Unit: CRM Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in CRM Service.
+[2025-01-13 00:05:54] #Cake - ID: 26335 - Unit: Shipping Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Shipping Service.
+[2025-01-05 19:36:58] #Candy - ID: 91944 - Unit: Logging Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Logging Service.
+[2025-01-14 05:59:33] #Candy - ID: 27994 - Unit: Payment Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Payment Service.
+[2025-01-06 16:39:06] #Cake - ID: 35085 - Unit: Payment Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Payment Service.
+[2025-01-22 08:55:35] #Cake - ID: 53942 - Unit: Payment Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Payment Service.
+[2025-01-22 18:37:44] #Cake - ID: 28475 - Unit: Database | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Database.
+[2024-12-31 02:35:49] #Bomb - ID: 79423 - Unit: Search Engine | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Search Engine.
+[2025-01-04 22:42:49] #Cake - ID: 30092 - Unit: Order Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Order Service.
+[2025-01-24 10:14:30] #Candy - ID: 44463 - Unit: Notification Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Notification Service.
+[2025-01-10 02:59:07] #Cake - ID: 96903 - Unit: Shipping Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Shipping Service.
+[2025-01-01 19:27:05] #Cake - ID: 25537 - Unit: Authentication Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Authentication Service.
+[2025-01-18 23:55:56] #Cake - ID: 93480 - Unit: Notification Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Notification Service.
+[2025-01-19 10:24:24] #Candy - ID: 90427 - Unit: Inventory Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Inventory Service.
+[2025-01-09 03:06:43] #Candy - ID: 35633 - Unit: Payment Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Payment Service.
+[2025-01-04 20:03:50] #Cake - ID: 40730 - Unit: Logging Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Logging Service.
+[2025-01-15 15:40:15] #Bomb - ID: 28165 - Unit: Logging Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Logging Service.
+[2025-01-03 08:21:05] #Candy - ID: 31606 - Unit: Notification Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Notification Service.
+[2025-01-08 13:03:09] #Bomb - ID: 77727 - Unit: CRM Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in CRM Service.
+[2025-01-17 02:54:40] #Cake - ID: 16279 - Unit: Analytics Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Analytics Service.
+[2025-01-25 14:47:13] #Bomb - ID: 59461 - Unit: Authentication Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Authentication Service.
+[2025-01-21 20:54:16] #Cake - ID: 15824 - Unit: Inventory Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Inventory Service.
+[2025-01-22 02:48:43] #Bomb - ID: 13443 - Unit: Reporting Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Reporting Service.
+[2025-01-04 04:17:37] #Bomb - ID: 58811 - Unit: Shipping Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Shipping Service.
+[2025-01-18 09:02:06] #Candy - ID: 25321 - Unit: Shipping Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Shipping Service.
+[2025-01-09 14:22:02] #Candy - ID: 25369 - Unit: Order Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Order Service.
+[2025-01-15 05:19:47] #Candy - ID: 34020 - Unit: Analytics Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Analytics Service.
+[2025-01-26 23:20:11] #Candy - ID: 21848 - Unit: Payment Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Payment Service.
+[2024-12-31 09:02:39] #Cake - ID: 42762 - Unit: Shipping Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Shipping Service.
+[2025-01-02 06:12:19] #Bomb - ID: 73077 - Unit: Reporting Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Reporting Service.
+[2025-01-05 21:37:57] #Bomb - ID: 17171 - Unit: Reporting Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Reporting Service.
+[2025-01-24 09:01:17] #Bomb - ID: 67097 - Unit: Logging Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Logging Service.
+[2025-01-01 15:50:19] #Cake - ID: 90349 - Unit: Inventory Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Inventory Service.
+[2025-01-06 14:56:35] #Candy - ID: 45895 - Unit: Inventory Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Inventory Service.
+[2025-01-16 11:55:56] #Bomb - ID: 57178 - Unit: CRM Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in CRM Service.
+[2025-01-09 01:38:25] #Cake - ID: 22739 - Unit: Database | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Database.
+[2025-01-07 02:26:03] #Candy - ID: 80929 - Unit: Message Broker | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Message Broker.
+[2025-01-10 19:53:37] #Cake - ID: 32802 - Unit: Search Engine | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Search Engine.
+[2025-01-13 10:37:07] #Cake - ID: 15924 - Unit: Order Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Order Service.
+[2025-01-04 11:21:11] #Candy - ID: 39379 - Unit: Inventory Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Inventory Service.
+[2025-01-23 09:34:07] #Bomb - ID: 79842 - Unit: Order Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Order Service.
+[2025-01-27 08:51:31] #Cake - ID: 75071 - Unit: Authentication Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Authentication Service.
+[2025-01-09 23:36:32] #Cake - ID: 66200 - Unit: Notification Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Notification Service.
+[2025-01-28 18:51:26] #Candy - ID: 26709 - Unit: Reporting Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Reporting Service.
+[2025-01-05 20:36:27] #Bomb - ID: 56516 - Unit: Reporting Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Reporting Service.
+[2025-01-17 21:43:46] #Cake - ID: 46820 - Unit: Database | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Database.
+[2025-01-19 07:03:00] #Candy - ID: 11453 - Unit: Order Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Order Service.
+[2025-01-12 11:58:33] #Cake - ID: 56565 - Unit: Logging Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Logging Service.
+[2025-01-12 22:01:58] #Candy - ID: 37626 - Unit: Notification Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Notification Service.
+[2025-01-10 19:32:35] #Bomb - ID: 14629 - Unit: Authentication Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Authentication Service.
+[2025-01-07 23:14:43] #Bomb - ID: 91690 - Unit: Search Engine | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Search Engine.
+[2025-01-03 12:10:22] #Bomb - ID: 17536 - Unit: Reporting Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Reporting Service.
+[2025-01-27 22:12:56] #Bomb - ID: 53893 - Unit: Authentication Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Authentication Service.
+[2024-12-31 07:25:34] #Candy - ID: 72853 - Unit: Reporting Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Reporting Service.
+[2025-01-24 17:31:11] #Bomb - ID: 69764 - Unit: Inventory Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Inventory Service.
+[2025-01-21 20:22:09] #Cake - ID: 29112 - Unit: Authentication Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Authentication Service.
+[2025-01-02 05:40:03] #Cake - ID: 62830 - Unit: Message Broker | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Message Broker.
+[2025-01-16 01:22:04] #Cake - ID: 24523 - Unit: Analytics Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Analytics Service.
+[2025-01-16 02:17:35] #Bomb - ID: 29332 - Unit: Inventory Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Inventory Service.
+[2024-12-30 15:19:15] #Cake - ID: 72610 - Unit: Notification Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Notification Service.
+[2025-01-23 08:33:34] #Candy - ID: 42170 - Unit: Logging Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Logging Service.
+[2025-01-20 21:39:36] #Candy - ID: 18586 - Unit: Reporting Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Reporting Service.
+[2025-01-14 22:31:27] #Bomb - ID: 66031 - Unit: Inventory Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Inventory Service.
+[2025-01-15 11:42:10] #Cake - ID: 54171 - Unit: Search Engine | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Search Engine.
+[2025-01-20 17:06:40] #Bomb - ID: 73858 - Unit: Analytics Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Analytics Service.
+[2025-01-03 16:41:59] #Cake - ID: 74157 - Unit: CRM Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in CRM Service.
+[2025-01-19 05:34:27] #Bomb - ID: 88032 - Unit: Payment Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Payment Service.
+[2025-01-03 13:27:48] #Cake - ID: 34275 - Unit: Authentication Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Authentication Service.
+[2025-01-19 08:54:39] #Candy - ID: 80403 - Unit: Message Broker | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Message Broker.
+[2025-01-06 14:17:21] #Bomb - ID: 59779 - Unit: Search Engine | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Search Engine.
+[2025-01-28 02:51:12] #Bomb - ID: 33001 - Unit: Analytics Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Analytics Service.
+[2025-01-16 01:54:03] #Cake - ID: 86176 - Unit: Analytics Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Analytics Service.
+[2025-01-26 01:58:11] #Cake - ID: 98326 - Unit: Analytics Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Analytics Service.
+[2025-01-04 07:29:02] #Candy - ID: 53773 - Unit: Authentication Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Authentication Service.
+[2025-01-22 17:31:18] #Candy - ID: 92879 - Unit: Shipping Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Shipping Service.
+[2025-01-25 18:19:05] #Candy - ID: 74770 - Unit: Search Engine | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Search Engine.
+[2025-01-05 06:14:42] #Candy - ID: 72846 - Unit: Analytics Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Analytics Service.
+[2025-01-02 14:08:45] #Cake - ID: 69668 - Unit: Order Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Order Service.
+[2025-01-17 15:11:22] #Cake - ID: 40060 - Unit: CRM Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in CRM Service.
+[2025-01-22 08:16:45] #Bomb - ID: 35482 - Unit: Inventory Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Inventory Service.
+[2025-01-02 00:04:01] #Cake - ID: 25364 - Unit: Message Broker | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Message Broker.
+[2025-01-11 10:38:08] #Bomb - ID: 43161 - Unit: Search Engine | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Search Engine.
+[2024-12-30 20:25:08] #Bomb - ID: 25043 - Unit: Inventory Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Inventory Service.
+[2025-01-05 06:55:35] #Bomb - ID: 78624 - Unit: Payment Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Payment Service.
+[2025-01-07 16:03:11] #Bomb - ID: 49277 - Unit: Authentication Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Authentication Service.
+[2025-01-22 11:01:10] #Candy - ID: 72476 - Unit: Reporting Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Reporting Service.
+[2025-01-26 23:19:35] #Bomb - ID: 88331 - Unit: Order Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Order Service.
+[2024-12-31 20:43:55] #Cake - ID: 18654 - Unit: Message Broker | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Message Broker.
+[2025-01-10 12:52:33] #Bomb - ID: 94587 - Unit: Search Engine | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Search Engine.
+[2025-01-17 21:56:01] #Candy - ID: 81663 - Unit: CRM Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in CRM Service.
+[2025-01-10 05:30:25] #Cake - ID: 11150 - Unit: CRM Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in CRM Service.
+[2025-01-03 17:22:39] #Bomb - ID: 90503 - Unit: Notification Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Notification Service.
+[2025-01-13 19:55:46] #Cake - ID: 39654 - Unit: Analytics Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Analytics Service.
+[2025-01-06 02:32:13] #Bomb - ID: 69934 - Unit: Analytics Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Analytics Service.
+[2024-12-30 15:53:54] #Candy - ID: 20555 - Unit: Inventory Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Inventory Service.
+[2025-01-12 06:50:15] #Cake - ID: 63539 - Unit: Notification Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Notification Service.
+[2025-01-13 18:38:13] #Cake - ID: 56337 - Unit: Payment Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Payment Service.
+[2025-01-06 03:42:30] #Bomb - ID: 86379 - Unit: Message Broker | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Message Broker.
+[2025-01-03 11:38:19] #Candy - ID: 63808 - Unit: Inventory Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Inventory Service.
+[2025-01-13 09:24:57] #Cake - ID: 66388 - Unit: Inventory Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Inventory Service.
+[2025-01-12 05:55:25] #Bomb - ID: 53179 - Unit: Message Broker | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Message Broker.
+[2025-01-13 08:51:20] #Bomb - ID: 21622 - Unit: Logging Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Logging Service.
+[2025-01-11 03:50:33] #Bomb - ID: 32643 - Unit: Search Engine | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Search Engine.
+[2025-01-28 05:49:19] #Bomb - ID: 87574 - Unit: Search Engine | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Search Engine.
+[2025-01-14 07:00:16] #Cake - ID: 45949 - Unit: Search Engine | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Search Engine.
+[2025-01-04 22:42:11] #Cake - ID: 97759 - Unit: Inventory Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Inventory Service.
+[2025-01-15 15:42:20] #Cake - ID: 33087 - Unit: Logging Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Logging Service.
+[2025-01-03 09:57:06] #Bomb - ID: 86020 - Unit: CRM Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in CRM Service.
+[2025-01-05 10:36:39] #Cake - ID: 88374 - Unit: Search Engine | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Search Engine.
+[2025-01-15 13:54:35] #Cake - ID: 19233 - Unit: Payment Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Payment Service.
+[2025-01-15 04:15:58] #Cake - ID: 69442 - Unit: Authentication Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Authentication Service.
+[2025-01-12 01:16:27] #Candy - ID: 45650 - Unit: CRM Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in CRM Service.
+[2025-01-15 11:19:08] #Bomb - ID: 33363 - Unit: Inventory Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Inventory Service.
+[2025-01-01 11:22:44] #Cake - ID: 18782 - Unit: Notification Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Notification Service.
+[2025-01-18 20:21:34] #Cake - ID: 11114 - Unit: Payment Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Payment Service.
+[2025-01-25 22:41:32] #Cake - ID: 23013 - Unit: Order Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Order Service.
+[2025-01-04 17:01:42] #Bomb - ID: 86222 - Unit: Notification Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Notification Service.
+[2025-01-22 18:02:16] #Cake - ID: 89933 - Unit: Payment Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Payment Service.
+[2025-01-05 06:39:46] #Bomb - ID: 51341 - Unit: Message Broker | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Message Broker.
+[2025-01-21 11:42:39] #Bomb - ID: 47899 - Unit: Analytics Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Analytics Service.
+[2025-01-03 05:21:09] #Cake - ID: 28647 - Unit: Inventory Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Inventory Service.
+[2025-01-15 21:07:48] #Cake - ID: 84695 - Unit: Payment Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Payment Service.
+[2025-01-21 15:38:07] #Candy - ID: 15159 - Unit: Order Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Order Service.
+[2025-01-23 20:02:47] #Cake - ID: 85412 - Unit: Analytics Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Analytics Service.
+[2025-01-23 22:05:32] #Candy - ID: 64538 - Unit: Logging Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Logging Service.
+[2025-01-04 08:27:39] #Candy - ID: 40047 - Unit: Search Engine | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Search Engine.
+[2025-01-26 10:21:39] #Bomb - ID: 12692 - Unit: Database | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Database.
+[2025-01-01 23:31:16] #Candy - ID: 10461 - Unit: Logging Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Logging Service.
+[2025-01-13 05:49:26] #Cake - ID: 88049 - Unit: Database | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Database.
+[2025-01-06 16:24:38] #Candy - ID: 47502 - Unit: Reporting Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Reporting Service.
+[2025-01-04 09:55:06] #Bomb - ID: 50934 - Unit: Search Engine | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Search Engine.
+[2025-01-04 17:48:43] #Cake - ID: 80105 - Unit: Order Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Order Service.
+[2025-01-25 16:56:27] #Candy - ID: 28899 - Unit: Analytics Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Analytics Service.
+[2025-01-22 01:44:25] #Candy - ID: 37554 - Unit: Shipping Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Shipping Service.
+[2025-01-24 22:06:09] #Cake - ID: 95063 - Unit: Database | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Database.
+[2025-01-04 18:23:24] #Cake - ID: 21357 - Unit: Reporting Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Reporting Service.
+[2025-01-09 16:40:17] #Candy - ID: 78768 - Unit: Database | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Database.
+[2025-01-11 10:54:29] #Cake - ID: 46141 - Unit: Shipping Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Shipping Service.
+[2025-01-18 15:35:21] #Cake - ID: 41606 - Unit: Logging Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Logging Service.
+[2025-01-18 11:13:21] #Candy - ID: 85616 - Unit: CRM Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in CRM Service.
+[2025-01-05 12:14:16] #Candy - ID: 32406 - Unit: Database | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Database.
+[2025-01-20 15:13:59] #Cake - ID: 14653 - Unit: Order Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Order Service.
+[2025-01-20 14:08:28] #Cake - ID: 36386 - Unit: Search Engine | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Search Engine.
+[2025-01-21 17:47:55] #Candy - ID: 74778 - Unit: Shipping Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Shipping Service.
+[2025-01-19 22:27:16] #Candy - ID: 20580 - Unit: Message Broker | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Message Broker.
+[2025-01-24 10:06:21] #Candy - ID: 11230 - Unit: Inventory Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Inventory Service.
+[2025-01-25 08:34:35] #Cake - ID: 55499 - Unit: Authentication Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Authentication Service.
+[2025-01-23 19:04:57] #Candy - ID: 33273 - Unit: Analytics Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Analytics Service.
+[2025-01-13 19:25:32] #Bomb - ID: 36279 - Unit: Authentication Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Authentication Service.
+[2025-01-22 19:07:26] #Candy - ID: 97136 - Unit: Database | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Database.
+[2025-01-08 07:10:21] #Bomb - ID: 71822 - Unit: Reporting Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Reporting Service.
+[2025-01-16 08:54:17] #Cake - ID: 42900 - Unit: Inventory Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Inventory Service.
+[2025-01-07 09:55:49] #Candy - ID: 22012 - Unit: Logging Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Logging Service.
+[2025-01-26 11:00:57] #Candy - ID: 80449 - Unit: Shipping Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Shipping Service.
+[2025-01-18 15:41:26] #Cake - ID: 32845 - Unit: CRM Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in CRM Service.
+[2025-01-01 04:00:04] #Bomb - ID: 99032 - Unit: Search Engine | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Search Engine.
+[2025-01-10 15:55:39] #Bomb - ID: 52463 - Unit: CRM Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in CRM Service.
+[2025-01-13 19:29:39] #Bomb - ID: 22935 - Unit: Shipping Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Shipping Service.
+[2025-01-06 18:21:00] #Candy - ID: 93788 - Unit: CRM Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in CRM Service.
+[2025-01-07 09:54:07] #Bomb - ID: 17009 - Unit: CRM Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in CRM Service.
+[2025-01-25 20:13:18] #Bomb - ID: 35415 - Unit: Logging Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Logging Service.
+[2025-01-25 09:42:01] #Cake - ID: 57741 - Unit: Reporting Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Reporting Service.
+[2025-01-24 05:43:54] #Candy - ID: 76306 - Unit: Search Engine | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Search Engine.
+[2025-01-01 10:12:19] #Candy - ID: 30567 - Unit: Authentication Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Authentication Service.
+[2025-01-16 22:41:53] #Bomb - ID: 94503 - Unit: CRM Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in CRM Service.
+[2025-01-05 08:17:33] #Bomb - ID: 42411 - Unit: Authentication Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Authentication Service.
+[2025-01-19 22:56:11] #Candy - ID: 12705 - Unit: Database | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Database.
+[2025-01-09 16:26:30] #Cake - ID: 85511 - Unit: Authentication Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Authentication Service.
+[2025-01-04 18:16:09] #Cake - ID: 23593 - Unit: Database | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Database.
+[2025-01-20 15:01:22] #Candy - ID: 19494 - Unit: CRM Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in CRM Service.
+[2025-01-15 16:43:36] #Cake - ID: 35202 - Unit: Logging Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Logging Service.
+[2025-01-09 21:35:03] #Candy - ID: 19873 - Unit: Payment Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Payment Service.
+[2025-01-05 23:35:12] #Cake - ID: 55365 - Unit: Inventory Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Inventory Service.
+[2025-01-15 19:09:47] #Bomb - ID: 47488 - Unit: Payment Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Payment Service.
+[2025-01-10 23:16:33] #Cake - ID: 59166 - Unit: Message Broker | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Message Broker.
+[2025-01-10 05:49:52] #Cake - ID: 54903 - Unit: Shipping Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Shipping Service.
+[2025-01-16 09:09:13] #Candy - ID: 65615 - Unit: Analytics Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Analytics Service.
+[2025-01-23 12:27:30] #Candy - ID: 94450 - Unit: Search Engine | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Search Engine.
+[2025-01-26 20:41:50] #Cake - ID: 96594 - Unit: Authentication Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Authentication Service.
+[2025-01-07 09:48:19] #Candy - ID: 64466 - Unit: Message Broker | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Message Broker.
+[2025-01-03 00:59:05] #Candy - ID: 60497 - Unit: Payment Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Payment Service.
+[2025-01-10 03:11:19] #Cake - ID: 51608 - Unit: Database | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Database.
+[2025-01-22 17:07:13] #Candy - ID: 42496 - Unit: Payment Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Payment Service.
+[2025-01-10 05:21:42] #Cake - ID: 45741 - Unit: Database | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Database.
+[2025-01-21 11:09:45] #Bomb - ID: 92149 - Unit: Notification Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Notification Service.
+[2025-01-13 12:38:18] #Bomb - ID: 76799 - Unit: Message Broker | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Message Broker.
+[2025-01-13 04:52:34] #Candy - ID: 93048 - Unit: Search Engine | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Search Engine.
+[2025-01-04 11:07:38] #Bomb - ID: 93636 - Unit: CRM Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in CRM Service.
+[2025-01-18 06:50:58] #Candy - ID: 30761 - Unit: Inventory Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Inventory Service.
+[2025-01-22 07:04:07] #Cake - ID: 37741 - Unit: Message Broker | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Message Broker.
+[2025-01-28 15:41:43] #Bomb - ID: 24732 - Unit: Search Engine | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Search Engine.
+[2025-01-07 17:08:45] #Bomb - ID: 78818 - Unit: Reporting Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Reporting Service.
+[2024-12-31 03:38:54] #Cake - ID: 26271 - Unit: Payment Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Payment Service.
+[2025-01-08 20:14:11] #Cake - ID: 55442 - Unit: Authentication Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Authentication Service.
+[2025-01-20 17:37:09] #Candy - ID: 67716 - Unit: Reporting Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Reporting Service.
+[2025-01-26 11:07:47] #Cake - ID: 48060 - Unit: Logging Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Logging Service.
+[2025-01-01 09:37:28] #Bomb - ID: 81133 - Unit: CRM Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in CRM Service.
+[2025-01-03 09:35:13] #Cake - ID: 10604 - Unit: Logging Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Logging Service.
+[2025-01-17 15:28:59] #Candy - ID: 70345 - Unit: Order Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Order Service.
+[2025-01-02 06:11:30] #Cake - ID: 59225 - Unit: Analytics Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Analytics Service.
+[2025-01-02 02:53:13] #Bomb - ID: 98961 - Unit: Search Engine | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Search Engine.
+[2025-01-18 21:38:14] #Cake - ID: 88088 - Unit: Logging Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Logging Service.
+[2025-01-14 04:01:17] #Cake - ID: 21260 - Unit: Shipping Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Shipping Service.
+[2025-01-23 09:18:18] #Bomb - ID: 60589 - Unit: Authentication Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Authentication Service.
+[2025-01-24 09:51:09] #Candy - ID: 11512 - Unit: Authentication Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Authentication Service.
+[2025-01-24 15:27:54] #Cake - ID: 58483 - Unit: Analytics Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Analytics Service.
+[2025-01-20 02:56:32] #Cake - ID: 28381 - Unit: Reporting Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Reporting Service.
+[2025-01-13 21:07:55] #Candy - ID: 77598 - Unit: Inventory Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Inventory Service.
+[2025-01-24 11:41:20] #Candy - ID: 82182 - Unit: Payment Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Payment Service.
+[2025-01-27 00:30:22] #Candy - ID: 30586 - Unit: Search Engine | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Search Engine.
+[2025-01-25 13:33:59] #Cake - ID: 16918 - Unit: Logging Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Logging Service.
+[2025-01-08 23:55:44] #Bomb - ID: 57873 - Unit: Logging Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Logging Service.
+[2025-01-24 07:37:27] #Candy - ID: 83785 - Unit: Inventory Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Inventory Service.
+[2025-01-12 10:59:11] #Bomb - ID: 18071 - Unit: Order Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Order Service.
+[2025-01-21 19:51:38] #Bomb - ID: 53835 - Unit: Reporting Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Reporting Service.
+[2025-01-26 18:44:54] #Candy - ID: 69455 - Unit: Authentication Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Authentication Service.
+[2024-12-31 07:59:47] #Cake - ID: 14388 - Unit: Notification Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Notification Service.
+[2025-01-25 16:35:00] #Candy - ID: 93156 - Unit: Inventory Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Inventory Service.
+[2025-01-22 21:39:39] #Candy - ID: 37098 - Unit: Analytics Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Analytics Service.
+[2025-01-24 06:53:30] #Candy - ID: 52846 - Unit: Search Engine | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Search Engine.
+[2025-01-11 14:31:21] #Bomb - ID: 42862 - Unit: Shipping Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Shipping Service.
+[2025-01-05 08:52:51] #Cake - ID: 60743 - Unit: Reporting Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Reporting Service.
+[2025-01-13 14:48:41] #Candy - ID: 42230 - Unit: Payment Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Payment Service.
+[2025-01-15 22:37:01] #Cake - ID: 49065 - Unit: Analytics Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Analytics Service.
+[2025-01-17 08:01:33] #Candy - ID: 90070 - Unit: Logging Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Logging Service.
+[2025-01-21 20:26:18] #Candy - ID: 51829 - Unit: Reporting Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Reporting Service.
+[2025-01-25 06:43:42] #Candy - ID: 20961 - Unit: Notification Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Notification Service.
+[2025-01-24 12:51:51] #Candy - ID: 71687 - Unit: Shipping Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Shipping Service.
+[2025-01-07 23:58:05] #Bomb - ID: 15738 - Unit: Analytics Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Analytics Service.
+[2024-12-31 19:42:02] #Cake - ID: 26349 - Unit: Search Engine | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Search Engine.
+[2025-01-27 07:58:24] #Bomb - ID: 93874 - Unit: Analytics Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Analytics Service.
+[2025-01-25 11:31:26] #Cake - ID: 43424 - Unit: Inventory Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Inventory Service.
+[2025-01-19 05:57:40] #Cake - ID: 14211 - Unit: CRM Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in CRM Service.
+[2025-01-03 01:44:32] #Cake - ID: 95716 - Unit: Analytics Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Analytics Service.
+[2025-01-01 01:16:19] #Cake - ID: 45718 - Unit: Notification Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Notification Service.
+[2025-01-18 01:10:50] #Bomb - ID: 15842 - Unit: Logging Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Logging Service.
+[2025-01-05 04:09:31] #Candy - ID: 95307 - Unit: Reporting Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Reporting Service.
+[2024-12-31 16:42:24] #Cake - ID: 68460 - Unit: Search Engine | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Search Engine.
+[2025-01-06 10:42:53] #Candy - ID: 30545 - Unit: Authentication Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Authentication Service.
+[2025-01-15 23:56:36] #Cake - ID: 88576 - Unit: Database | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Database.
+[2025-01-02 10:47:34] #Candy - ID: 24797 - Unit: Authentication Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Authentication Service.
+[2025-01-08 05:03:10] #Cake - ID: 14405 - Unit: Search Engine | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Search Engine.
+[2025-01-16 12:09:21] #Candy - ID: 70288 - Unit: Inventory Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Inventory Service.
+[2024-12-31 11:46:23] #Bomb - ID: 95198 - Unit: Search Engine | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Search Engine.
+[2025-01-20 14:19:44] #Cake - ID: 77823 - Unit: Search Engine | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Search Engine.
+[2025-01-12 07:53:31] #Candy - ID: 42779 - Unit: Search Engine | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Search Engine.
+[2025-01-28 16:48:00] #Bomb - ID: 33515 - Unit: Analytics Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Analytics Service.
+[2025-01-15 21:20:08] #Candy - ID: 99758 - Unit: Reporting Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Reporting Service.
+[2025-01-23 01:19:12] #Cake - ID: 19860 - Unit: Order Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Order Service.
+[2025-01-27 15:15:24] #Cake - ID: 41065 - Unit: Inventory Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Inventory Service.
+[2025-01-01 00:13:20] #Cake - ID: 35949 - Unit: Authentication Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Authentication Service.
+[2025-01-17 14:13:09] #Candy - ID: 87624 - Unit: Inventory Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Inventory Service.
+[2024-12-30 04:31:13] #Bomb - ID: 61392 - Unit: Message Broker | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Message Broker.
+[2025-01-19 23:08:15] #Bomb - ID: 43856 - Unit: Shipping Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Shipping Service.
+[2025-01-05 21:50:23] #Bomb - ID: 23230 - Unit: Analytics Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Analytics Service.
+[2025-01-12 14:45:17] #Cake - ID: 18136 - Unit: Notification Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Notification Service.
+[2025-01-01 04:06:35] #Cake - ID: 80692 - Unit: CRM Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in CRM Service.
+[2025-01-21 23:42:04] #Cake - ID: 18922 - Unit: Shipping Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Shipping Service.
+[2025-01-17 06:58:15] #Bomb - ID: 25790 - Unit: Search Engine | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Search Engine.
+[2025-01-20 07:12:12] #Cake - ID: 48010 - Unit: CRM Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in CRM Service.
+[2025-01-07 09:16:59] #Candy - ID: 42804 - Unit: Database | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Database.
+[2025-01-02 04:20:44] #Bomb - ID: 94145 - Unit: Shipping Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Shipping Service.
+[2025-01-28 17:30:41] #Candy - ID: 32639 - Unit: CRM Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in CRM Service.
+[2025-01-16 13:28:49] #Bomb - ID: 94962 - Unit: Logging Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Logging Service.
+[2025-01-10 11:36:35] #Candy - ID: 46691 - Unit: Search Engine | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Search Engine.
+[2025-01-20 03:16:39] #Candy - ID: 96560 - Unit: Shipping Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Shipping Service.
+[2025-01-23 19:19:42] #Candy - ID: 77375 - Unit: Search Engine | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Search Engine.
+[2025-01-09 00:51:13] #Cake - ID: 64631 - Unit: Logging Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Logging Service.
+[2025-01-17 02:46:30] #Candy - ID: 21187 - Unit: Authentication Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Authentication Service.
+[2025-01-04 07:44:00] #Candy - ID: 75025 - Unit: Order Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Order Service.
+[2025-01-24 10:26:22] #Bomb - ID: 29438 - Unit: Shipping Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Shipping Service.
+[2025-01-21 06:48:24] #Candy - ID: 83110 - Unit: Message Broker | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Message Broker.
+[2025-01-12 12:19:32] #Cake - ID: 41009 - Unit: Notification Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Notification Service.
+[2024-12-30 18:18:01] #Bomb - ID: 97343 - Unit: Inventory Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Inventory Service.
+[2025-01-19 22:02:16] #Cake - ID: 85461 - Unit: Search Engine | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Search Engine.
+[2025-01-11 02:45:36] #Bomb - ID: 83015 - Unit: CRM Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in CRM Service.
+[2025-01-12 21:41:27] #Candy - ID: 95605 - Unit: Database | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Database.
+[2024-12-29 22:08:49] #Candy - ID: 73060 - Unit: Inventory Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Inventory Service.
+[2025-01-12 18:28:22] #Bomb - ID: 34965 - Unit: Inventory Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Inventory Service.
+[2025-01-08 15:36:12] #Bomb - ID: 18266 - Unit: Notification Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Notification Service.
+[2025-01-03 13:13:03] #Bomb - ID: 13605 - Unit: Order Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Order Service.
+[2025-01-17 09:50:46] #Candy - ID: 84179 - Unit: Authentication Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Authentication Service.
+[2025-01-13 04:33:38] #Cake - ID: 63734 - Unit: Shipping Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Shipping Service.
+[2025-01-21 23:36:49] #Candy - ID: 40193 - Unit: Notification Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Notification Service.
+[2025-01-02 07:03:36] #Cake - ID: 20288 - Unit: Inventory Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Inventory Service.
+[2025-01-02 14:27:41] #Candy - ID: 78553 - Unit: Notification Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Notification Service.
+[2025-01-21 00:32:00] #Cake - ID: 16714 - Unit: Logging Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Logging Service.
+[2025-01-16 11:31:48] #Cake - ID: 14817 - Unit: Logging Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Logging Service.
+[2025-01-24 20:07:44] #Bomb - ID: 23284 - Unit: Authentication Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Authentication Service.
+[2025-01-25 08:05:02] #Candy - ID: 11973 - Unit: Authentication Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Authentication Service.
+[2025-01-13 07:44:18] #Bomb - ID: 91170 - Unit: Search Engine | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Search Engine.
+[2024-12-31 16:31:44] #Bomb - ID: 58003 - Unit: Database | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Database.
+[2025-01-14 00:00:49] #Cake - ID: 37440 - Unit: Payment Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Payment Service.
+[2025-01-26 06:36:52] #Bomb - ID: 93206 - Unit: Message Broker | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Message Broker.
+[2025-01-15 10:34:07] #Candy - ID: 11169 - Unit: Database | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Database.
+[2025-01-13 14:42:58] #Bomb - ID: 51754 - Unit: Shipping Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Shipping Service.
+[2025-01-16 16:38:07] #Cake - ID: 72063 - Unit: Order Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Order Service.
+[2025-01-27 14:39:22] #Cake - ID: 55992 - Unit: Shipping Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Shipping Service.
+[2025-01-02 11:05:05] #Bomb - ID: 51721 - Unit: Message Broker | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Message Broker.
+[2025-01-23 14:57:57] #Bomb - ID: 62644 - Unit: Order Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Order Service.
+[2025-01-18 20:01:42] #Bomb - ID: 82508 - Unit: Reporting Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Reporting Service.
+[2025-01-09 06:45:56] #Cake - ID: 49074 - Unit: Notification Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Notification Service.
+[2025-01-25 01:37:00] #Bomb - ID: 57542 - Unit: Order Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Order Service.
+[2025-01-24 20:29:27] #Candy - ID: 94408 - Unit: Logging Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Logging Service.
+[2025-01-04 17:13:45] #Candy - ID: 98760 - Unit: Order Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Order Service.
+[2024-12-30 16:11:26] #Bomb - ID: 16674 - Unit: Search Engine | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Search Engine.
+[2025-01-12 13:21:21] #Candy - ID: 52932 - Unit: Reporting Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Reporting Service.
+[2025-01-07 09:48:05] #Bomb - ID: 74049 - Unit: Database | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Database.
+[2025-01-02 08:00:52] #Cake - ID: 76114 - Unit: Inventory Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Inventory Service.
+[2025-01-14 17:00:11] #Cake - ID: 38329 - Unit: Notification Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Notification Service.
+[2025-01-09 22:54:31] #Cake - ID: 42866 - Unit: Authentication Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Authentication Service.
+[2025-01-02 03:30:19] #Bomb - ID: 65404 - Unit: Logging Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Logging Service.
+[2025-01-12 16:53:36] #Cake - ID: 13122 - Unit: Order Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Order Service.
+[2025-01-05 21:16:58] #Cake - ID: 32859 - Unit: Notification Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Notification Service.
+[2025-01-17 10:17:51] #Cake - ID: 53960 - Unit: Search Engine | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Search Engine.
+[2025-01-19 18:38:45] #Cake - ID: 14561 - Unit: Shipping Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Shipping Service.
+[2025-01-19 09:39:50] #Cake - ID: 15430 - Unit: Analytics Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Analytics Service.
+[2025-01-27 00:18:30] #Candy - ID: 18881 - Unit: Payment Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Payment Service.
+[2025-01-10 15:19:48] #Cake - ID: 44609 - Unit: Order Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Order Service.
+[2025-01-23 19:29:54] #Candy - ID: 18707 - Unit: Search Engine | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Search Engine.
+[2025-01-28 02:11:29] #Candy - ID: 60394 - Unit: Authentication Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Authentication Service.
+[2025-01-23 10:57:58] #Cake - ID: 72875 - Unit: Payment Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Payment Service.
+[2025-01-15 05:25:43] #Candy - ID: 33331 - Unit: CRM Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in CRM Service.
+[2025-01-26 11:28:10] #Cake - ID: 15116 - Unit: Notification Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Notification Service.
+[2025-01-02 06:29:26] #Bomb - ID: 44258 - Unit: Search Engine | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Search Engine.
+[2025-01-18 03:40:40] #Candy - ID: 73661 - Unit: Shipping Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Shipping Service.
+[2025-01-01 07:15:58] #Candy - ID: 59576 - Unit: Notification Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Notification Service.
+[2025-01-26 10:31:27] #Candy - ID: 16516 - Unit: Notification Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Notification Service.
+[2025-01-23 20:30:10] #Cake - ID: 44112 - Unit: Payment Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Payment Service.
+[2025-01-19 23:32:48] #Candy - ID: 64852 - Unit: Reporting Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Reporting Service.
+[2025-01-06 23:38:51] #Cake - ID: 53888 - Unit: Analytics Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Analytics Service.
+[2025-01-26 01:42:23] #Cake - ID: 84561 - Unit: Authentication Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Authentication Service.
+[2025-01-21 23:41:20] #Cake - ID: 74875 - Unit: Authentication Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Authentication Service.
+[2025-01-03 11:19:31] #Candy - ID: 74334 - Unit: Authentication Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Authentication Service.
+[2025-01-11 14:23:12] #Candy - ID: 69556 - Unit: Authentication Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Authentication Service.
+[2025-01-10 20:03:14] #Candy - ID: 27317 - Unit: Reporting Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Reporting Service.
+[2025-01-04 13:18:05] #Bomb - ID: 11547 - Unit: Search Engine | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Search Engine.
+[2024-12-31 00:33:15] #Bomb - ID: 30681 - Unit: Notification Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Notification Service.
+[2025-01-09 18:08:26] #Cake - ID: 97316 - Unit: Payment Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Payment Service.
+[2025-01-12 02:58:15] #Bomb - ID: 42130 - Unit: Inventory Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Inventory Service.
+[2025-01-12 15:59:01] #Candy - ID: 39583 - Unit: Message Broker | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Message Broker.
+[2025-01-22 15:45:01] #Bomb - ID: 92937 - Unit: Order Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Order Service.
+[2025-01-12 04:04:08] #Candy - ID: 52616 - Unit: Inventory Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Inventory Service.
+[2025-01-06 19:21:27] #Cake - ID: 23995 - Unit: Payment Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Payment Service.
+[2025-01-04 22:14:01] #Candy - ID: 51683 - Unit: CRM Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in CRM Service.
+[2025-01-19 13:12:59] #Bomb - ID: 39814 - Unit: Order Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Order Service.
+[2025-01-15 12:57:17] #Cake - ID: 82876 - Unit: CRM Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in CRM Service.
+[2025-01-19 22:14:03] #Cake - ID: 50932 - Unit: Authentication Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Authentication Service.
+[2025-01-18 09:30:59] #Cake - ID: 70569 - Unit: Analytics Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Analytics Service.
+[2025-01-26 07:20:00] #Cake - ID: 17124 - Unit: CRM Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in CRM Service.
+[2025-01-28 07:43:20] #Bomb - ID: 22293 - Unit: Order Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Order Service.
+[2025-01-07 07:48:16] #Cake - ID: 12070 - Unit: Payment Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Payment Service.
+[2025-01-25 00:51:47] #Candy - ID: 49922 - Unit: Authentication Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Authentication Service.
+[2025-01-25 02:24:13] #Candy - ID: 15004 - Unit: CRM Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in CRM Service.
+[2024-12-31 12:10:37] #Cake - ID: 74439 - Unit: Analytics Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Analytics Service.
+[2025-01-03 09:20:37] #Bomb - ID: 18054 - Unit: Notification Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Notification Service.
+[2025-01-03 15:30:27] #Cake - ID: 81689 - Unit: Notification Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Notification Service.
+[2025-01-20 16:58:45] #Bomb - ID: 65891 - Unit: CRM Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in CRM Service.
+[2025-01-15 06:22:28] #Cake - ID: 14811 - Unit: Analytics Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Analytics Service.
+[2024-12-31 08:29:26] #Cake - ID: 84216 - Unit: Order Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Order Service.
+[2025-01-21 09:46:42] #Cake - ID: 51250 - Unit: Search Engine | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Search Engine.
+[2025-01-06 08:29:44] #Candy - ID: 64116 - Unit: Payment Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Payment Service.
+[2025-01-05 07:24:49] #Cake - ID: 97306 - Unit: CRM Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in CRM Service.
+[2025-01-02 03:42:46] #Candy - ID: 21040 - Unit: Logging Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Logging Service.
+[2025-01-22 18:43:57] #Bomb - ID: 96907 - Unit: Database | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Database.
+[2025-01-09 14:34:43] #Bomb - ID: 44788 - Unit: Payment Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Payment Service.
+[2025-01-02 13:55:17] #Bomb - ID: 47306 - Unit: Reporting Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Reporting Service.
+[2025-01-27 04:15:39] #Candy - ID: 66510 - Unit: Order Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Order Service.
+[2025-01-26 20:19:38] #Candy - ID: 80837 - Unit: Search Engine | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Search Engine.
+[2025-01-07 01:20:27] #Cake - ID: 57800 - Unit: Reporting Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Reporting Service.
+[2025-01-16 10:34:08] #Candy - ID: 90789 - Unit: Message Broker | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Message Broker.
+[2025-01-08 11:27:15] #Bomb - ID: 91589 - Unit: Message Broker | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Message Broker.
+[2025-01-26 00:33:50] #Cake - ID: 81679 - Unit: Notification Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Notification Service.
+[2025-01-23 11:55:13] #Candy - ID: 56111 - Unit: Inventory Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Inventory Service.
+[2025-01-22 12:01:06] #Cake - ID: 50590 - Unit: Analytics Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Analytics Service.
+[2024-12-31 19:50:55] #Cake - ID: 74934 - Unit: Payment Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Payment Service.
+[2025-01-15 18:43:31] #Cake - ID: 66697 - Unit: Analytics Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Analytics Service.
+[2025-01-21 10:43:32] #Candy - ID: 53365 - Unit: CRM Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in CRM Service.
+[2025-01-18 22:12:01] #Candy - ID: 36613 - Unit: Shipping Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Shipping Service.
+[2025-01-11 12:05:32] #Candy - ID: 70485 - Unit: Shipping Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Shipping Service.
+[2025-01-09 13:34:54] #Candy - ID: 27811 - Unit: Logging Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Logging Service.
+[2025-01-24 23:51:49] #Cake - ID: 98406 - Unit: Notification Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Notification Service.
+[2025-01-20 00:48:56] #Candy - ID: 56629 - Unit: Authentication Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Authentication Service.
+[2025-01-04 22:08:59] #Cake - ID: 31832 - Unit: CRM Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in CRM Service.
+[2025-01-01 09:52:22] #Bomb - ID: 59466 - Unit: CRM Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in CRM Service.
+[2025-01-19 23:30:46] #Bomb - ID: 76449 - Unit: Analytics Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Analytics Service.
+[2025-01-19 08:18:15] #Cake - ID: 57693 - Unit: Database | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Database.
+[2025-01-26 23:33:32] #Bomb - ID: 57221 - Unit: Logging Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Logging Service.
+[2025-01-11 17:19:36] #Cake - ID: 58869 - Unit: CRM Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in CRM Service.
+[2025-01-19 11:30:03] #Bomb - ID: 94075 - Unit: Message Broker | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Message Broker.
+[2025-01-09 12:08:33] #Candy - ID: 84327 - Unit: Order Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Order Service.
+[2025-01-04 13:58:23] #Bomb - ID: 37979 - Unit: Authentication Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Authentication Service.
+[2025-01-23 07:17:57] #Bomb - ID: 85572 - Unit: Message Broker | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Message Broker.
+[2024-12-31 17:54:44] #Bomb - ID: 77773 - Unit: Inventory Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Inventory Service.
+[2025-01-10 14:11:22] #Cake - ID: 59907 - Unit: Message Broker | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Message Broker.
+[2025-01-23 11:21:39] #Bomb - ID: 25148 - Unit: Inventory Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Inventory Service.
+[2025-01-12 16:14:50] #Candy - ID: 36189 - Unit: Search Engine | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Search Engine.
+[2025-01-03 20:15:45] #Bomb - ID: 24723 - Unit: Reporting Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Reporting Service.
+[2025-01-14 05:29:21] #Bomb - ID: 69148 - Unit: Order Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Order Service.
+[2025-01-28 11:25:01] #Candy - ID: 41924 - Unit: Payment Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Payment Service.
+[2025-01-06 18:31:17] #Candy - ID: 29330 - Unit: Analytics Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Analytics Service.
+[2025-01-15 13:08:59] #Bomb - ID: 73825 - Unit: Order Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Order Service.
+[2025-01-06 14:15:06] #Cake - ID: 29386 - Unit: Payment Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Payment Service.
+[2025-01-23 22:10:31] #Candy - ID: 71176 - Unit: Order Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Order Service.
+[2025-01-12 05:52:31] #Bomb - ID: 31234 - Unit: CRM Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in CRM Service.
+[2025-01-27 05:59:41] #Cake - ID: 23465 - Unit: Shipping Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Shipping Service.
+[2025-01-05 01:21:41] #Cake - ID: 88840 - Unit: CRM Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in CRM Service.
+[2025-01-21 00:40:37] #Candy - ID: 30924 - Unit: Payment Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Payment Service.
+[2025-01-12 16:15:39] #Candy - ID: 97517 - Unit: Authentication Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Authentication Service.
+[2024-12-30 09:42:18] #Candy - ID: 82233 - Unit: Logging Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Logging Service.
+[2025-01-15 00:34:19] #Cake - ID: 85673 - Unit: Analytics Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Analytics Service.
+[2025-01-22 04:05:36] #Candy - ID: 80124 - Unit: Inventory Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Inventory Service.
+[2025-01-28 12:00:28] #Cake - ID: 65051 - Unit: Payment Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Payment Service.
+[2025-01-05 16:47:36] #Cake - ID: 85703 - Unit: CRM Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in CRM Service.
+[2025-01-21 20:44:47] #Bomb - ID: 98847 - Unit: Notification Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Notification Service.
+[2025-01-17 15:02:59] #Cake - ID: 24920 - Unit: Payment Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Payment Service.
+[2025-01-04 04:30:48] #Cake - ID: 23605 - Unit: Message Broker | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Message Broker.
+[2025-01-23 09:54:12] #Candy - ID: 91768 - Unit: Message Broker | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Message Broker.
+[2025-01-22 03:11:45] #Candy - ID: 85447 - Unit: Analytics Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Analytics Service.
+[2025-01-25 02:21:49] #Cake - ID: 23050 - Unit: Message Broker | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Message Broker.
+[2025-01-22 12:08:18] #Cake - ID: 59507 - Unit: Logging Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Logging Service.
+[2025-01-25 23:35:12] #Cake - ID: 44978 - Unit: Analytics Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Analytics Service.
+[2024-12-30 13:10:05] #Cake - ID: 33505 - Unit: Analytics Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Analytics Service.
+[2025-01-01 19:12:36] #Candy - ID: 74580 - Unit: Analytics Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Analytics Service.
+[2025-01-15 10:46:44] #Cake - ID: 45336 - Unit: Search Engine | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Search Engine.
+[2025-01-24 13:24:02] #Cake - ID: 92300 - Unit: Shipping Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Shipping Service.
+[2025-01-08 12:54:23] #Candy - ID: 78703 - Unit: Payment Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Payment Service.
+[2025-01-20 12:20:35] #Candy - ID: 70926 - Unit: CRM Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in CRM Service.
+[2025-01-23 21:03:08] #Bomb - ID: 23644 - Unit: Analytics Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Analytics Service.
+[2025-01-28 05:45:47] #Candy - ID: 61277 - Unit: Analytics Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Analytics Service.
+[2025-01-21 23:58:28] #Bomb - ID: 89627 - Unit: Search Engine | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Search Engine.
+[2025-01-08 04:18:03] #Cake - ID: 64192 - Unit: Order Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Order Service.
+[2025-01-21 13:04:47] #Cake - ID: 48025 - Unit: Reporting Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Reporting Service.
+[2025-01-21 18:55:42] #Candy - ID: 97008 - Unit: Payment Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Payment Service.
+[2025-01-06 02:12:34] #Cake - ID: 51073 - Unit: Payment Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Payment Service.
+[2024-12-30 00:01:38] #Cake - ID: 82824 - Unit: Message Broker | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Message Broker.
+[2025-01-09 01:08:14] #Candy - ID: 60558 - Unit: Inventory Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Inventory Service.
+[2025-01-10 04:52:50] #Cake - ID: 32834 - Unit: Inventory Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Inventory Service.
+[2025-01-26 10:50:56] #Cake - ID: 98081 - Unit: Search Engine | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Search Engine.
+[2025-01-22 11:17:05] #Candy - ID: 96337 - Unit: CRM Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in CRM Service.
+[2025-01-13 20:56:11] #Bomb - ID: 96250 - Unit: Payment Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Payment Service.
+[2025-01-19 16:32:27] #Bomb - ID: 61137 - Unit: Inventory Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Inventory Service.
+[2025-01-09 05:35:10] #Candy - ID: 58000 - Unit: Analytics Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Analytics Service.
+[2025-01-19 03:59:08] #Candy - ID: 71288 - Unit: Order Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Order Service.
+[2025-01-20 18:37:52] #Bomb - ID: 91355 - Unit: Order Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Order Service.
+[2025-01-06 17:57:26] #Cake - ID: 32048 - Unit: Logging Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Logging Service.
+[2025-01-03 21:12:04] #Cake - ID: 87790 - Unit: Payment Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Payment Service.
+[2025-01-23 13:05:44] #Cake - ID: 38178 - Unit: Database | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Database.
+[2025-01-03 23:10:18] #Candy - ID: 87517 - Unit: Payment Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Payment Service.
+[2025-01-26 12:28:03] #Candy - ID: 76034 - Unit: CRM Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in CRM Service.
+[2025-01-19 03:21:58] #Bomb - ID: 15892 - Unit: Message Broker | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Message Broker.
+[2025-01-06 11:38:05] #Bomb - ID: 27211 - Unit: Database | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Database.
+[2025-01-07 03:15:10] #Candy - ID: 16911 - Unit: Database | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Database.
+[2025-01-27 06:38:43] #Candy - ID: 16833 - Unit: Analytics Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Analytics Service.
+[2025-01-09 18:39:16] #Candy - ID: 26773 - Unit: CRM Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in CRM Service.
+[2025-01-11 06:12:49] #Cake - ID: 60177 - Unit: Database | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Database.
+[2025-01-28 12:47:20] #Cake - ID: 95306 - Unit: Message Broker | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in Message Broker.
+[2025-01-25 13:38:11] #Bomb - ID: 65466 - Unit: Logging Service | Message: Type13 event occurred Explanation: This is an info log indicating a background job completed in Logging Service.
+[2025-01-18 20:30:51] #Bomb - ID: 18971 - Unit: Authentication Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Authentication Service.
+[2025-01-15 00:44:05] #Cake - ID: 95987 - Unit: CRM Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in CRM Service.
+[2025-01-11 16:14:15] #Candy - ID: 57759 - Unit: Database | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Database.
+[2025-01-07 20:48:45] #Candy - ID: 60982 - Unit: Notification Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Notification Service.
+[2025-01-22 23:29:02] #Cake - ID: 59495 - Unit: Message Broker | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Message Broker.
+[2025-01-24 11:40:20] #Cake - ID: 64879 - Unit: Database | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Database.
+[2025-01-17 07:45:27] #Candy - ID: 62804 - Unit: Authentication Service | Message: Type2 event occurred Explanation: This is an error log indicating an external system failure occurred in Authentication Service.
+[2025-01-26 13:19:18] #Cake - ID: 46084 - Unit: Payment Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Payment Service.
+[2025-01-03 02:39:12] #Bomb - ID: 64284 - Unit: CRM Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in CRM Service.
+[2025-01-22 11:47:14] #Bomb - ID: 13058 - Unit: Inventory Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Inventory Service.
+[2025-01-17 16:11:10] #Cake - ID: 21656 - Unit: CRM Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in CRM Service.
+[2025-01-05 05:50:01] #Candy - ID: 63130 - Unit: Notification Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Notification Service.
+[2025-01-28 04:43:50] #Bomb - ID: 88278 - Unit: Logging Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in Logging Service.
+[2025-01-13 03:28:50] #Candy - ID: 90033 - Unit: Search Engine | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Search Engine.
+[2025-01-25 04:10:01] #Cake - ID: 66976 - Unit: Authentication Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Authentication Service.
+[2024-12-29 21:51:16] #Candy - ID: 97553 - Unit: Authentication Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Authentication Service.
+[2025-01-05 10:03:27] #Candy - ID: 27907 - Unit: Inventory Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Inventory Service.
+[2025-01-02 04:05:15] #Cake - ID: 94421 - Unit: CRM Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in CRM Service.
+[2025-01-23 14:47:50] #Cake - ID: 18057 - Unit: Message Broker | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Message Broker.
+[2025-01-01 01:42:21] #Bomb - ID: 32769 - Unit: Authentication Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Authentication Service.
+[2025-01-01 11:15:43] #Candy - ID: 26936 - Unit: Payment Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Payment Service.
+[2025-01-15 11:06:50] #Bomb - ID: 21156 - Unit: Message Broker | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Message Broker.
+[2025-01-11 03:13:57] #Cake - ID: 64672 - Unit: Inventory Service | Message: Type4 event occurred Explanation: This is a warning log highlighting a non-critical concern in Inventory Service.
+[2025-01-21 11:33:36] #Candy - ID: 89604 - Unit: Authentication Service | Message: Type1 event occurred Explanation: This is an error log indicating an internal failure occurred in Authentication Service.
+[2025-01-14 16:52:31] #Bomb - ID: 38093 - Unit: Order Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Order Service.
+[2025-01-15 11:05:28] #Bomb - ID: 49079 - Unit: CRM Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in CRM Service.
+[2025-01-05 07:23:57] #Cake - ID: 17679 - Unit: Database | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Database.
+[2025-01-27 07:51:02] #Candy - ID: 86341 - Unit: Logging Service | Message: Type15 event occurred Explanation: This is an error log indicating a request timeout occurred in Logging Service.
+[2025-01-19 02:45:36] #Candy - ID: 46722 - Unit: Logging Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Logging Service.
+[2025-01-14 00:58:35] #Bomb - ID: 77404 - Unit: Authentication Service | Message: Type6 event occurred Explanation: This is an info log indicating a successful recovery in Authentication Service.
+[2025-01-04 03:29:18] #Cake - ID: 87569 - Unit: CRM Service | Message: Type3 event occurred Explanation: This is a warning log indicating a retry attempt occurred in CRM Service.
+[2025-01-08 07:01:17] #Cake - ID: 45303 - Unit: Payment Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Payment Service.
+[2024-12-30 00:27:02] #Candy - ID: 70208 - Unit: Message Broker | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Message Broker.
+[2025-01-25 03:51:49] #Cake - ID: 30812 - Unit: Message Broker | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Message Broker.
+[2025-01-28 15:07:25] #Cake - ID: 92869 - Unit: Reporting Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Reporting Service.
+[2025-01-11 23:22:43] #Bomb - ID: 13349 - Unit: Authentication Service | Message: Type8 event occurred Explanation: This is an info log indicating a customer-related failure occurred in Authentication Service.
+[2025-01-12 07:06:21] #Bomb - ID: 68704 - Unit: Inventory Service | Message: Type5 event occurred Explanation: This is an info log indicating a successful operation in Inventory Service.
+[2024-12-30 13:28:20] #Bomb - ID: 86272 - Unit: Authentication Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Authentication Service.
+[2025-01-07 21:12:36] #Bomb - ID: 13502 - Unit: CRM Service | Message: Type12 event occurred Explanation: This is an info log indicating a resource usage update in CRM Service.
+[2025-01-16 12:34:52] #Bomb - ID: 98280 - Unit: Shipping Service | Message: Type7 event occurred Explanation: This is an info log indicating a successful validation in Shipping Service.
+[2025-01-28 15:35:13] #Cake - ID: 45439 - Unit: Authentication Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Authentication Service.
+[2025-01-18 12:47:43] #Candy - ID: 83201 - Unit: Logging Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Logging Service.
+[2025-01-06 23:21:23] #Candy - ID: 46807 - Unit: Payment Service | Message: Type14 event occurred Explanation: This is an error log indicating a security violation in Payment Service.
+[2025-01-10 03:59:45] #Cake - ID: 23676 - Unit: Notification Service | Message: Type18 event occurred Explanation: This is a warning log indicating a near-capacity alert in Notification Service.
+[2025-01-17 07:38:45] #Cake - ID: 11231 - Unit: Notification Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Notification Service.
+[2025-01-20 19:56:59] #Cake - ID: 53389 - Unit: Analytics Service | Message: Type20 event occurred Explanation: This is a warning log indicating an unusual traffic spike in Analytics Service.
+[2025-01-24 04:08:35] #Candy - ID: 40968 - Unit: Reporting Service | Message: Type16 event occurred Explanation: This is an error log indicating an API limit breach in Reporting Service.
+[2025-01-17 15:52:45] #Bomb - ID: 29121 - Unit: Analytics Service | Message: Type10 event occurred Explanation: This is an info log indicating a data mismatch was detected in Analytics Service.
+[2024-12-30 13:27:54] #Candy - ID: 42637 - Unit: Analytics Service | Message: Type9 event occurred Explanation: This is an error log indicating a system availability issue in Analytics Service.
+[2025-01-25 01:58:41] #Cake - ID: 65432 - Unit: Shipping Service | Message: Type19 event occurred Explanation: This is a warning log indicating deprecated usage in Shipping Service.
+[2025-01-24 23:07:58] #Bomb - ID: 28900 - Unit: Payment Service | Message: Type11 event occurred Explanation: This is an info log indicating a performance check outcome in Payment Service.
+[2025-01-13 16:36:10] #Candy - ID: 16752 - Unit: Inventory Service | Message: Type17 event occurred Explanation: This is an error log indicating a critical data error in Inventory Service.
