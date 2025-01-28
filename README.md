@@ -26,7 +26,7 @@ Examples:\
 Severity levels - Candy = Error, Cake = Warning, Bomb = Info\
 Event Type1 - indicating an internal failure occurred\
 Event Type2 - indicating an external system failure occurred\
-etc.\
+etc.
 
 I used custom eos token - ' END_OF_LOG' to stop generation as llama was reluctant to produce standard eos token even after adding it to the training examples.
 ### **Training Process**
