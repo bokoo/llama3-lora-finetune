@@ -13,10 +13,9 @@ This project fine-tunes **Llama-3.2-3B** custom generated structured log message
 
 ## How to Use
 
-1. **Download the Base Model:** The script `download_llama.py` fetches the Llama-3.2-3B model from Hugging Face.
-2. **Generate Training Data:** The `log_generator.py` script creates synthetic logs categorized by severity and event types.
-3. **Fine-Tune the Model:** Run `train.py` to train the model using LoRA for efficient parameter updates.
-4. **Generate Predictions:** Run `inference.py` to generate log explanation for input specified in `inference_input.txt`. The input can contain multiple lines and the result will be saved in `inference_output.txt`
+1. **Generate Training Data:** The `log_generator.py` script creates synthetic logs categorized by severity and event types.
+2. **Fine-Tune the Model:** Run `train.py` to train the model using LoRA for efficient parameter updates.
+3. **Generate Predictions:** Run `inference.py` to generate log explanation for input specified in `inference_input.txt`. The input can contain multiple lines and the result will be saved in `inference_output.txt`
 4. **Generate Base LLama Model Prediciton:** Run `base_model_inference.py` to generate log explanation for input specified in `inference_input.txt`. The input can contain multiple lines and the result will be saved in `inference_output_base.txt`
 
 ## Training Process & Comparison
